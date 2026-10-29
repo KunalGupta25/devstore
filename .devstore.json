@@ -1,3 +1,193 @@
 {
-  "theme": "iris"
+  "theme": "default",
+  "featured": [],
+  "hidden": [],
+  "overrides": {
+    "plexi-materials": {
+      "title": "plexi-materials",
+      "description": "",
+      "demo": "https://plexi-materials.vercel.app",
+      "image": ""
+    },
+    "flint": {
+      "title": "flint",
+      "description": "Make your digital brain inside your computer !!",
+      "demo": "",
+      "image": ""
+    },
+    "KunalGupta25": {
+      "title": "KunalGupta25",
+      "description": "Config files for my GitHub profile.",
+      "demo": "https://github.com/KunalGupta25",
+      "image": ""
+    },
+    "plexi-Streamlit": {
+      "title": "plexi-Streamlit",
+      "description": "A Study webapp with specially tuned AI agent for exam prepration ",
+      "demo": "https://lazyhuman-plexi.hf.space",
+      "image": ""
+    },
+    "WeatherAPP": {
+      "title": "WeatherAPP",
+      "description": "An flask weather app",
+      "demo": "https://weather-app-livid-six-34.vercel.app",
+      "image": ""
+    },
+    "chatbot-gemini": {
+      "title": "chatbot-gemini",
+      "description": "basic chat bot made using flask and Gemini ",
+      "demo": "",
+      "image": ""
+    },
+    "devstore": {
+      "title": "devstore",
+      "description": "My DevDex configuration",
+      "demo": "",
+      "image": ""
+    },
+    "dsh-login-gateway": {
+      "title": "dsh-login-gateway",
+      "description": "ogin wall and public gateway plugin for DeepSeek Harness cloud deployments",
+      "demo": "",
+      "image": ""
+    },
+    "9router": {
+      "title": "9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "demo": "https://9router.com",
+      "image": ""
+    },
+    "NoterootAI": {
+      "title": "NoterootAI",
+      "description": "",
+      "demo": "https://noteroot-ai.vercel.app",
+      "image": ""
+    },
+    "laya-browser-control": {
+      "title": "laya-browser-control",
+      "description": "MCP server + Chrome extension that gives AI agents control of your real browser with existing sessions and logins",
+      "demo": "",
+      "image": ""
+    },
+    "WA-AKG": {
+      "title": "WA-AKG",
+      "description": "A self-hosted WhatsApp Gateway & Dashboard built with Next.js 15, Baileys, and Prisma. Manage multi-session accounts, schedule messages, create auto-replies, and integrate via Webhooks.",
+      "demo": "https://wa-akg.aikeigroup.net",
+      "image": ""
+    },
+    "chat-with-pdf": {
+      "title": "chat-with-pdf",
+      "description": "an pdf chat AI Agent made using Smolagents Framework",
+      "demo": "",
+      "image": ""
+    },
+    "IDE-portfolio": {
+      "title": "IDE-portfolio",
+      "description": "IDE themed Portfolio",
+      "demo": "https://ide-portfolio-two.vercel.app",
+      "image": ""
+    },
+    "Bytefolio": {
+      "title": "Bytefolio",
+      "description": "My Personal Portfolio Made in Next.js",
+      "demo": "http://bytefolio.mexus.tech/",
+      "image": ""
+    },
+    "cosmeta": {
+      "title": "cosmeta",
+      "description": "An E-Novel Platform made in flask with admin panel and Discord Auth",
+      "demo": "https://cosmeta.mexus.tech",
+      "image": ""
+    },
+    "DocsGPT": {
+      "title": "DocsGPT",
+      "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+      "demo": "https://app.docsgpt.cloud/",
+      "image": ""
+    },
+    "first-contributions": {
+      "title": "first-contributions",
+      "description": "🚀✨ Help beginners to contribute to open source projects",
+      "demo": "https://firstcontributions.github.io",
+      "image": ""
+    },
+    "portfolio": {
+      "title": "portfolio",
+      "description": "",
+      "demo": "https://personal-portfolio-azure-three.vercel.app",
+      "image": ""
+    },
+    "EduConnect": {
+      "title": "EduConnect",
+      "description": "attendance management system",
+      "demo": "",
+      "image": ""
+    },
+    "serveless-api-email": {
+      "title": "serveless-api-email",
+      "description": "rest API on serverless framework that will take input - receiver_email, subject, and body_text and send an email accordingly to receiver_email",
+      "demo": "",
+      "image": ""
+    },
+    "django-login-form": {
+      "title": "django-login-form",
+      "description": "A Doctor/Patient Login/Sign form using Django",
+      "demo": "",
+      "image": ""
+    },
+    "Login-Register": {
+      "title": "Login-Register",
+      "description": "A simple Login-Register Web Project made using JSP and servlet.",
+      "demo": "",
+      "image": ""
+    },
+    "Enterprise-Development-in-Java": {
+      "title": "Enterprise-Development-in-Java",
+      "description": "A Practice Repository for Enterprise-Development-in-Java ",
+      "demo": "",
+      "image": ""
+    },
+    "MAL-Agent": {
+      "title": "MAL-Agent",
+      "description": "A streamlit Powered AI Chatbot for MyAnimeList made with Smolagents",
+      "demo": "",
+      "image": ""
+    },
+    "HistoricVeda": {
+      "title": "HistoricVeda",
+      "description": "",
+      "demo": "https://kunalgupta25.github.io/HistoricVeda/",
+      "image": ""
+    },
+    "LeafLearn": {
+      "title": "LeafLearn",
+      "description": "2F2H Hackathon Project ",
+      "demo": "",
+      "image": ""
+    },
+    "Cosmeta2": {
+      "title": "Cosmeta2",
+      "description": "",
+      "demo": "replit.com/@LazyHuman10/CosmosNarrative",
+      "image": ""
+    },
+    "Nekoscafe-menu": {
+      "title": "Nekoscafe-menu",
+      "description": "",
+      "demo": "https://kunalgupta25.github.io/Nekoscafe-menu/",
+      "image": ""
+    },
+    "Python-Discord-Bot": {
+      "title": "Python-Discord-Bot",
+      "description": "a basic discord bot made with the help of discord.py",
+      "demo": "",
+      "image": ""
+    },
+    "Python": {
+      "title": "Python",
+      "description": "A Practice Repository for python programs ",
+      "demo": "",
+      "image": ""
+    }
+  }
 }
